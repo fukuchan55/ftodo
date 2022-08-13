@@ -1,5 +1,5 @@
 # ftodo
-simple todo list
+簡単なToDoリスト
 
 # ftodoプライバシーポリシー
 
